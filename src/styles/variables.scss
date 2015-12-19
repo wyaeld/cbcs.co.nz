@@ -39,12 +39,10 @@ $charcoal: #423b36;
 $eggshell: #ffc13b;
 $canary: #ffcc02;
 
-$roboto: 'Roboto Condensed', sans-serif;
-$georgia: 'Georgia',serif;
-$header-sans: 'Montserrat', sans-serif;
-$primary-sans: 'Open Sans', sans-serif;
-
-
+// Used in responsive
+$collapse-background: #ff9000;
+$main-menu-border: #ffffff;
+$main-menu-nav-collapse: rgba(255,255,255,1);
 
 
 // CBCS Colors
@@ -59,3 +57,11 @@ $cbsc_white:  #ffffff;
 $cbsc_lightgrey: #c9c9c9;
 $cbsc_grey: $grey8;
 $cbsc_darkgrey: $charcoal;
+
+
+// Fonts
+$roboto: 'Roboto Condensed', sans-serif;
+$georgia: 'Georgia',serif;
+$header-sans: 'Montserrat', sans-serif;
+$primary-sans: 'Open Sans', sans-serif;
+
