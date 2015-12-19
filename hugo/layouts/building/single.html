@@ -1,0 +1,63 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+
+{{ partial "navbar.html" . }}
+<section class="page-title" style="background-image:url({{ .Params.banner_image }});">
+  <div class="auto-container">
+    <div class="text-center">
+      <!-- <h4>"We work for your security"</h4> -->
+      <h1 id="title">{{ .Title }}</h1>
+      <div class="icon"><img src="/img/icons/icon-arrows.png" alt=""></div>
+      <div class="bread-crumb">
+        You are here : <a href="/">Home</a> / <a class="current" href="{{ .Params.url }}">Tattoo</a>
+      </div>
+      </div>
+  </div>
+</section>
+
+<section id="main">
+  <div>
+    <article id="content">
+      <section class="profile-section">
+        <div class="auto-container">
+          <div class="row clearfix">
+            <!--Column-->
+            <div class="col-md-3 col-sm-12 col-xs-12 column">
+              <!--Member Info-->
+              <article class="member-info wow fadeInLeft animated" data-wow-delay="100ms" data-wow-duration="1500ms" style="visibility: visible; -webkit-animation: fadeInLeft 1500ms 100ms;">
+                <figure class="image">
+                  <div id="map">
+                    {{ partial "google-map.html" . }}
+                  </div>
+                  <!--  <a href="#"><img src="/img/resource/profile-image.jpg" alt=""></a> -->
+                </figure>
+                <div class="member-title">
+                  <h4>{{ .Title }}</h4>
+                  <p><em>{{ .Params.subtext }} </em></p>
+                </div>
+                <ul class="info">
+                  <li><strong>PHONE:</strong> {{ .Params.phone }} </li>
+                  <li><strong>E-MAIL:</strong> {{ .Params.email }} </li>
+                </ul>
+              </article>
+            </div>
+
+            <!--Column-->
+            <div class="col-md-9 col-sm-12 col-xs-12 column">
+              <div class="text">
+                <p>{{ .Content }}</p>
+                <br>
+                <!-- <div class="text-right"><img src="/img/resource/signature-image.png" alt=""></div>   -->
+                <br>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </section>
+    </article>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

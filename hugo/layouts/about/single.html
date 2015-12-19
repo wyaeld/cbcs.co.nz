@@ -1,0 +1,44 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+
+{{ partial "navbar.html" . }}
+
+  <section id="main">
+    <h1 id="title">{{ .Title }}</h1>
+    <div>
+          <article id="content">
+          <section class="tabs-section no-bg no-padd-top">
+      <div class="auto-container">
+          <!--Sec Title-->
+            <div class="sec-title">
+              <div class="em-text">what we are doing</div>
+                <h2 class="heading-text">About Us</h2>
+            </div>
+            
+          <div class="row clearfix">
+                <!--Content Column-->
+                <div class="col-md-12 col-sm-6 col-xs-12 column content-column">
+                    <!--Tab-->
+                    <div class="tab collapsed" id="tab-1">
+                        <div class="row clearfix">
+                            <div class="col-md-7 col-sm-12 col-xs-12 text-column">
+                                <p>{{ .Content }}</p>
+                            </div>
+                            
+                            <div class="col-md-5 col-sm-12 col-xs-12 image-column">
+                              <figure class="image"><img src="/img/resource/default-image-1.jpg" alt=""></figure>
+                              Ben Duflou
+                                <figure class="image"><img src="/img/resource/default-image-2.jpg" alt=""></figure>
+                              Shayne Thurston
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+          </article>
+    </div>
+  </section>
+
+{{ partial "footer.html" . }}

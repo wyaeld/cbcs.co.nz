@@ -1,0 +1,5 @@
+baseurl = "http://cbcs.co.nz"
+languageCode = "en-us"
+title = "Complete Body Corp Solutions"
+disableRSS = true
+disableSitemap = true

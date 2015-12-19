@@ -1,0 +1,108 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+
+{{ partial "navbar.html" . }}
+
+  <section id="main">
+    <div>
+          <article id="content">
+          <section class="page-title" style="background-image:url(images/parallax/image-8.jpg);">
+      <div class="auto-container">
+          <div class="text-center">
+              <h4>"Check the latest news"</h4>
+                <h1>Contact Us</h1>
+                <div class="icon"><img src="/img/icons/icon-arrows.png" alt=""></div>
+                <div class="bread-crumb">
+                  You are here : <a href="/">Home</a> / <a class="current" href="/contact-us">Contact us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="sidebar-page">
+      <div class="auto-container">
+          
+            <div class="row clearfix">
+                
+                <div class="col-md-9 col-sm-6 col-xs-12">
+                    <section class="contact-section">
+                        <!--Sec Title-->
+                        <div class="sec-title clearfix">
+                            <h2 class="heading-text">Contact Us</h2>
+                        </div>
+                       
+                        <br>
+                        
+                        <div class="form">
+                            
+                            <form id="contact-form" method="post" action="sendemail.php" novalidate="novalidate">
+                                <div class="row clearfix">
+                                    <div class="form-group col-md-4 col-sm-12 col-xs-12">
+                                        <div class="form-group-inner">
+                                            <div class="icon-box"><label for="your-name"><span class="icon fa fa-user"></span></label></div>
+                                            <div class="field-outer">
+                                                <input type="text" name="username" id="your-name" placeholder="Your Name">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group col-md-4 col-sm-12 col-xs-12">
+                                        <div class="form-group-inner">
+                                            <div class="icon-box"><label for="your-email"><span class="icon fa fa-envelope"></span></label></div>
+                                            <div class="field-outer">
+                                                <input type="email" name="email" id="your-email" placeholder="Email">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group col-md-4 col-sm-12 col-xs-12">
+                                        <div class="form-group-inner">
+                                            <div class="icon-box"><label for="your-subject"><span class="icon fa fa-edit"></span></label></div>
+                                            <div class="field-outer">
+                                                <input type="text" name="subject" id="your-subject" placeholder="Subject">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group col-md-12 col-sm-12 col-xs-12">
+                                        <div class="form-group-inner">
+                                            <textarea name="message" placeholder="Your Message"></textarea>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form-group col-md-12 col-sm-12 col-xs-12 text-right">
+                                        <button class="hvr-bounce-to-right" type="submit" name="submit-form">Send Message   <span class="icon flaticon-envelope32"></span></button>
+                                    </div>
+                                </div>
+                            </form>
+                            
+                        </div>
+                    
+                    </section>
+                </div>
+                
+                <!--Sidebar-->  
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <aside class="sidebar">
+                        <!-- Contact Information -->
+                        <div class="widget contact-info">
+                          <div class="sidebar-title"><h3>Contact information</h3></div>
+                            <div class="text">{{ .Content }}</div>
+                            <ul class="info">
+                                <li><strong>Email</strong> {{ .Params.email }}</li>
+                                <li><strong>Phone</strong> {{ .Params.phone }}</li>
+                                <li><strong>Fax</strong> {{ .Params.fax }}</li>
+                            </ul>
+                        </div>
+                                
+                    </aside>
+                
+                    
+                </div>
+                <!--Sidebar-->
+                
+            </div>
+        </div>
+    </div>
+          </article>
+    </div>
+  </section>
+
+{{ partial "footer.html" . }}
