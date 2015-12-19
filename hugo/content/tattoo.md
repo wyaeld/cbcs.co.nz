@@ -6,8 +6,8 @@ banner_image: "/img/tattootest.jpg"
 type: building
 map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11990.29234406004!2d174.7749216!3d-41.2963949!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76e2c91abed72059!2sTattoo+apartments!5e0!3m2!1sen!2snz!4v1450337956293"
 subtext: "Live in the heart of Wellington"
-phone: "555 5555"
-email: "email@email.com"
+phone: "(04) 805 0472"
+email: "shayne@cbcs.co.nz"
 ---
 # Welcome to the Tattoo Apartments.
 
@@ -36,3 +36,20 @@ All recycling materials must be sorted and placed in plastic bags or they will n
 Below is a link to the Council sorting guidelines:
 
 http://www.wellington.govt.nz/services/rubbrecyc/recycling/sorting.html
+
+### Files
+
+<a href="/files/Tattoo-Apartments-Body-Corporate-Operational-Rules-280912.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Operational Rules</a>
+
+<a href="/files/Tattoo-Apartments-Swipe-Card-and-Key-Order-Form.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Swipe Card and Key Order Form</a>
+
+<a href="/files/Tattoo-Apartments-Tenanted-Apartment-Agreement.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Tenanted Apartment Agreement</a>
+
+<a href="/files/Tattoo-Apartments-Proprietor-Details-Change-Form.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Propietor Details Change Form</a>
+
+<a href="/files/Tattoo-Apartments-Residents-Guide.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Resident's Guide</a>
+
+<a href="/files/Tattoo-Apartments-Owners-Guide.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Owner's Guide</a>
+
+<a href="/files/Tattoo-Apartments-Landlord-Pack.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Landlord Pack</a>
+
