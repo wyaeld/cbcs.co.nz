@@ -1,3 +1,5 @@
+@import 'variables';
+
 .main-menu .navigation > li {
   margin-left: 30px;
 }
@@ -7,3 +9,37 @@
 }
 
 a.anchor{position: absolute; height: 60px; margin-top: -60px;}
+
+
+.summary-section {
+  position:relative;
+  padding:50px 0px 20px;
+  background: $white;
+}
+
+.read-more-link {
+  color: $primary-hightlight;
+}
+
+.read-more-link:hover {
+  color: darken($primary-hightlight, 20%);
+}
+
+#statements {
+  table {
+    margin-bottom: 20px;
+  }
+  td {
+    padding-right: 120px;
+  }
+}
+
+section#page {
+  ul {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    li {
+      list-style: initial;
+    }
+  }
+}

@@ -3,14 +3,26 @@
 
 {{ partial "navbar.html" . }}
 
-  <section id="main">
-    <h1 id="title">{{ .Title }}</h1>
-    <div>
-    
-          <article id="content">
-             {{ .Content }}
-          </article>
+  <section id="page">
+    <div class="sidebar-page">
+      <div class="auto-container">
+
+            <div class="row clearfix">
+
+                <div class="col-md-12 col-sm-6 col-xs-12">
+                    <section class="content-section">
+                        <!--Sec Title-->
+                        <div class="sec-title clearfix">
+                        <h2 class="heading-text">                        {{ .Title }}</h2>
+                        </div>
+                         {{ .Content }}
+                   </section>
+                   </div>
+                 </div>
+
+    </div>
     </div>
   </section>
+
 
 {{ partial "footer.html" . }}

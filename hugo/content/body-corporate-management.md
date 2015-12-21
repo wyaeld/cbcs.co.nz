@@ -4,10 +4,13 @@ description: "Contact Us"
 type: page
 ---
 
-Complete Body Corp Solutions Limited (CBCS) provide exceptional secretarial and building management services. Ben Duflou (Director & Chartered Accountant) and Shayne Thurston (Director & Property Management Specialist) co-founded CBCS to provide a wide range of property, building management and accounting services to bodies corporate, company share and cross lease properties in Wellington and its surrounding localities. CBCS have an association with one of New Zealand’s leading solicitors on unit titled properties (Vesna Wells) to provide a complete and comprehensive body corporate support service to CBCS clients.
- 
- 
-Our secretarial and management service cover:
+We are professional Body Corporate Managers and can help make your body corporate run smoothly and efficently.
+
+Complete Body Corp Solutions Limited (CBCS) provide exceptional secretarial and building management services. CBCS has a complete understanding of the Unit Titles Act 2010 and its provisions and building management matters.
+
+With a practical approach to problem solving, indepth accounting and legislative advice, proven management practises and a willingness to engage with the Body Corporate members, we set a high standard of excellence in our industry.
+
+**Our secretarial and management services cover:**
  
 - Body Corporate Management Transfer, including bank account signatory changes, review of current budgets, review of legal documentation, review of  body corporate database, reviewing documentation of key infrastructure  information, review of filing system and review of master key registry (one off  activities associated with transferring the current management)
  
