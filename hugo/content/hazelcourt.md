@@ -9,7 +9,7 @@ subtext: "Life against the Green Belt"
 phone: "(04) 970 5435"
 email: "admin@cbcs.co.nz"
 ---
-Hazelcourt Flats is a block of 15 flats and 10 Maisonettes located on Claremont Grove in Mount Vitoria. The comples is well maintained and has a friendly community living there.
+Hazelcourt Flats is a block of 15 flats and 10 Maisonettes located on Claremont Grove in Mount Vitoria. The complex is well maintained and has a friendly community living there.
 
 Hazelcourt is run and administered by Complete Body Corp Solutions Ltd in conjuction with a Management Committee. Both the committee and secretary meet as necessary to keep the building maintained and functioning as planned.
 
