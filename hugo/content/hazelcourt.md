@@ -22,5 +22,7 @@ It is a friendly community and with a little care and effort, we can all help ke
 ### Files
 
 <a href="/files/Hazelcourt Flat Spec's & Guidelines.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Flat Specs and Guidelines</a>
+
 <a href="/files/Hazelcourt - Building Lease.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Building Lease</a>
+
 <a href="/files/Hazelcourt - Garage Lease.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Garage Lease</a>
