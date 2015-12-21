@@ -6,7 +6,7 @@ banner_image: "/img/buildings/tattoo/tattootest.jpg"
 type: building
 map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11990.29234406004!2d174.7749216!3d-41.2963949!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76e2c91abed72059!2sTattoo+apartments!5e0!3m2!1sen!2snz!4v1450337956293"
 subtext: "Live in the heart of Wellington"
-phone: "(04) 805 0472"
+phone: "(04) 970 5435"
 email: "admin@cbcs.co.nz"
 ---
 The Tattoo Apartments are a funky low rise complex comprising of 36 two level one bedroom apartments. The bedroom and bathroom are on the mezzanine floor and the living space takes in the ground floor. These are exciting and superb apartments that will appeal greatly to people looking to reside in the vibrant Upper Cuba area of Wellington City.
