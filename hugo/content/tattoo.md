@@ -29,9 +29,7 @@ Put paper and cardboard into one clear plastic bag, and glass, tins, cans and pl
 
 All recycling materials must be sorted and placed in plastic bags or they will not be collected.
 
-Below is a link to the Council sorting guidelines:
 
-http://www.wellington.govt.nz/services/rubbrecyc/recycling/sorting.html
 
 ### Files
 
