@@ -16,7 +16,8 @@
 		if($('.main-header').length){
 			var topHeader = $('.header-top').innerHeight();
 			var windowpos = $(window).scrollTop();
-			if (windowpos+20 >= topHeader) {
+			var footerBuffer = 40;
+			if (windowpos+footerBuffer >= topHeader) {
 				$('.main-header').addClass('fixed-header');
 				$('.scroll-to-top').fadeIn(300);
 			} else {
