@@ -39,12 +39,6 @@ $charcoal: #423b36;
 $eggshell: #ffc13b;
 $canary: #ffcc02;
 
-// Used in responsive
-$collapse-background: #ff9000;
-$main-menu-border: #ffffff;
-$main-menu-nav-collapse: rgba(255,255,255,1);
-
-
 // CBCS Colors
 $cbsc_red: #9A3233;
 $cbsc_silver: #B1B6B3;
@@ -57,6 +51,14 @@ $cbsc_white:  #ffffff;
 $cbsc_lightgrey: #c9c9c9;
 $cbsc_grey: $grey8;
 $cbsc_darkgrey: $charcoal;
+
+// Used in responsive
+$collapse-background: $cbsc_red;
+$main-menu-border: #ffffff;
+$main-menu-nav-collapse: rgba(255,255,255,1);
+
+$footer-background: $cbsc_darkgrey;
+
 
 
 // Fonts

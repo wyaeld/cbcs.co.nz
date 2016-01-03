@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Complete Body Corp Solutions"
 disableRSS = true
 disableSitemap = true
+
+copyright = "Complete Body Corp Solutions"
