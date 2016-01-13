@@ -26,3 +26,5 @@ It is a friendly community and with a little care and effort, we can all help ke
 <a href="/files/Hazelcourt - Building Lease.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Building Lease</a>
 
 <a href="/files/Hazelcourt - Garage Lease.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Garage Lease</a>
+
+<a href="/files/Hazelcourt Flats 2015 AGM Minutes.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> 2015 AGM Minutes</a>
