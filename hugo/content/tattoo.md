@@ -9,6 +9,10 @@ subtext: "Live in the heart of Wellington"
 phone: "(04) 970 5435"
 email: "admin@cbcs.co.nz"
 ---
+# Tattoo Apartments
+
+*Welcome to Tattoo Apartments.*
+
 The Tattoo Apartments are a funky low rise complex comprising of 36 two level one bedroom apartments. The bedroom and bathroom are on the mezzanine floor and the living space takes in the ground floor. These are exciting and superb apartments that will appeal greatly to people looking to reside in the vibrant Upper Cuba area of Wellington City.
 
 Located in Abel Smith Street just moments from bars and cafes, and a few minutes from shops and entertainment, this is a great building in a fantastic location.
