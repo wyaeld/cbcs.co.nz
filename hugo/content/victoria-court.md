@@ -13,7 +13,7 @@ email: "admin@cbcs.co.nz"
 
 *Welcome to Victoria Court*
 
-Victoria Court is designated on 2-4 Queen Street, Mt Victoria, Wellington. Victoria Court consists of containing 12 residential units. Victoria Court is well maintained and in a great environment. 
+Victoria Court is situated on 2-4 Queen Street, Mt Victoria, Wellington. Victoria Court consists of containing 12 residential units. Victoria Court is well maintained and in a great environment. 
 
 Victoria Court is run and administered by Complete Body Corp Solutions Ltd in conjunction with a Body Corporate Committee and facilitated by a professional Body Corporate Secretary.  Both the committee and secretary meet as necessary to keep the building maintained and functioning as planned.
 
