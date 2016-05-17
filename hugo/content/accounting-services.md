@@ -1,10 +1,11 @@
 ---
-title: "Accounting Services"
-description: "Contact Us"
+title: Accounting Services
+description: Contact Us
 type: page
+published: true
 ---
 
-Our accounting functions are overseen and undertaken by a Chartered Accountant.
+Our accounting functions are always overseen and undertaken by a Chartered Accountant.
 
 Utilising state of the art accounting software, our financial governance and reporting is second to none. With the peace of mind that a licensed professional is overseeing your body corporates financial affairs and easy access to the financial information for your elected committee members, you can rest easy knowing your financial accounts are in good hands.
 
@@ -24,4 +25,4 @@ We also provide commentary on movements across the balance sheet, particularly w
 - **Debt Collection:** We understand that at times unit owners may encounter issues with collecting body corporate levies. We maintain a register of owners and their levy payments are Page 6 of 8 reconciled in accordance with the fixed date the body corporate has set for levy collection. We monitor levy payments and take steps to recover levies when required and with the Chair and Committee’s guidance and instructions.
 If the normal course of levy collection becomes exhausted, our team are experts in levy recovery from the Tenancy Tribunal and Civil Collection processes.
  
-- **User Access:** We provide our Chairperson’s and Committee members “read-only” access to the accounts with the ability to review detailed transactional information. We will provide training to the Chairperson’s and Committee members should they require our assistance. 
+- **User Access:** We provide our Chairperson’s and Committee members “read-only” access to the accounts with the ability to review detailed transactional information. We will provide training to the Chairperson’s and Committee members should they require our assistance.
